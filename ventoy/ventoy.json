@@ -6,7 +6,7 @@
         "serial_param": "--unit=0 --speed=9600",
         "ventoy_left": "5%",
         "ventoy_top": "95%",
-        "ventoy_color": "#eff0f1",
+        "ventoy_color": "#EFF0F1",
         "fonts": [
             "/ventoy/themes/Cyber-Security/dejavu_12.pf2",
             "/ventoy/themes/Cyber-Security/dejavu_14.pf2",
@@ -16,36 +16,24 @@
     },
     "menu_class": [
         {
-            "key": "kubuntu",
-            "class": "kubuntu"
-        },
-        {
-            "key": "ubuntu",
-            "class": "ubuntu"
-        },
-        {
-            "key": "pop-os",
-            "class": "pop-os"
+            "key": "antergos",
+            "class": "antergos"
         },
         {
             "key": "arch",
             "class": "arch"
         },
         {
-            "key": "linuxmint",
-            "class": "linuxmint"
+            "key": "bsd",
+            "class": "bsd"
         },
         {
-            "key": "opensuse",
-            "class": "opensuse"
+            "key": "chakra",
+            "class": "chakra"
         },
         {
-            "key": "elementary",
-            "class": "elementary"
-        },
-        {
-            "key": "manjaro",
-            "class": "manjaro"
+            "key": "crunchbang",
+            "class": "crunchbang"
         },
         {
             "key": "debian",
@@ -56,24 +44,132 @@
             "class": "deepin"
         },
         {
-            "key": "solus",
-            "class": "solus"
+            "key": "edubuntu",
+            "class": "edubuntu"
         },
         {
-            "key": "zorin-os",
-            "class": "zorin-os"
+            "key": "elementary",
+            "class": "elementary"
+        },
+        {
+            "key": "fedora",
+            "class": "fedora"
+        },
+        {
+            "key": "freebsd",
+            "class": "freebsd"
+        },
+        {
+            "key": "freedos",
+            "class": "freedos"
+        },
+        {
+            "key": "frugalware",
+            "class": "frugalware"
+        },
+        {
+            "key": "gentoo",
+            "class": "gentoo"
+        },
+        {
+            "key": "gnu-linux",
+            "class": "gnu-linux"
+        },
+        {
+            "key": "kali",
+            "class": "kali"
+        },
+        {
+            "key": "kaos",
+            "class": "kaos"
+        },
+        {
+            "key": "korora",
+            "class": "korora"
+        },
+        {
+            "key": "kubuntu",
+            "class": "kubuntu"
+        },
+        {
+            "key": "lfs",
+            "class": "lfs"
+        },
+        {
+            "key": "linuxmint",
+            "class": "linuxmint"
+        },
+        {
+            "key": "linux-mint",
+            "class": "linux-mint"
+        },
+        {
+            "key": "lubuntu",
+            "class": "lubuntu"
+        },
+        {
+            "key": "macosx",
+            "class": "macosx"
+        },
+        {
+            "key": "mageia",
+            "class": "mageia"
+        },
+        {
+            "key": "manjaro",
+            "class": "manjaro"
+        },
+        {
+            "key": "netbsd",
+            "class": "netbsd"
+        },
+        {
+            "key": "openbsd",
+            "class": "openbsd"
+        },
+        {
+            "key": "opensuse",
+            "class": "opensuse"
+        },
+        {
+            "key": "pop-os",
+            "class": "pop-os"
+        },
+        {
+            "key": "recovery",
+            "class": "recovery"
+        },
+        {
+            "key": "sabayon",
+            "class": "sabayon"
+        },
+        {
+            "key": "siduction",
+            "class": "siduction"
+        },
+        {
+            "key": "slackware",
+            "class": "slackware"
+        },
+        {
+            "key": "solaris",
+            "class": "solaris"
+        },
+        {
+            "key": "steamos",
+            "class": "steamos"
+        },
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
         },
         {
             "key": "windows",
             "class": "windows"
         },
         {
-            "key": "hirens",
-            "class": "windows"
-        },
-        {
-            "key": "iso",
-            "class": "iso"
+            "key": "xubuntu",
+            "class": "xubuntu"
         }
     ]
 }
